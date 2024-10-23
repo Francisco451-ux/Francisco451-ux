@@ -8,6 +8,8 @@
 
 ![Francisco GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisco451-ux&show_icons=true&theme=merko)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco451-ux&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Technologies I use in my day 
 
 <div style="display: inline_block"><br/>
