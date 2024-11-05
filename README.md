@@ -19,4 +19,5 @@
 </div>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco451-ux&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco451-ux&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
